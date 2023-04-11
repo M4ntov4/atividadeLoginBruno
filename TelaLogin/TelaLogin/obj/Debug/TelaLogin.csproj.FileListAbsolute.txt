@@ -1,0 +1,11 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe.config
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\bin\Debug\TelaLogin.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\bin\Debug\TelaLogin.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\obj\Debug\TelaLogin.Properties.Resources.resources
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.GenerateResource.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\obj\Debug\TelaLogin.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\obj\Debug\TelaLogin.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\obj\Debug\TelaLogin.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\obj\Debug\TelaLogin.frmLogin.resources
+C:\Users\bruno\OneDrive\Área de Trabalho\TelaLogin\TelaLogin\obj\Debug\TelaLogin.frmCalculoIMC.resources
